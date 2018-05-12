@@ -1,0 +1,26 @@
+_repo: John-and-Betty-s-History-Visit_29517
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29517-h/images/fcover.jpg
+creator:
+  author:
+    agent_name: Williamson, Margaret
+    birthdate: 1886
+    gutenberg_agent_id: '33959'
+    url: http://www.gutenberg.org/2009/agents/33959
+description: ''
+gutenberg_issued: '2009-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29517'
+  lccn: '10008886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Description and travel'
+- !lcc 'DA'
+title: John and Betty's History Visit
+url: http://www.gutenberg.org/ebooks/29517
